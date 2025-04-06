@@ -1,16 +1,13 @@
-## Hi there 👋
+<img align="top" src="#" width="300"/>
 
-<!--
-**l2juhan/l2juhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hello</h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📚My tech stack📚</h2>
+![HTML5]{https://img.shields.io/badge/-HTML5-COLOR?style=for-the-badge&logo=html5&logoColor=ffffff}
+![CSS3]{https://img.shields.io/badge/-CSS3-COLOR?style=for-the-badge&logo=css3}
+![JavaScript]{https://img.shields.io/badge/-JavaScript-COLOR?style=for-the-badge&logo=javasript&logoColor=000000&labelColor=%23F7DF1&color=%23FFCE5A}
+![Git]{https://img.shields.io/badge/-Git-COLOR?style=for-the-badge&logo=git&logoColor=ffffff}
+![C++]{}
+![Java]{}
+![{Python3]{https://img.shields.io/badge/-Python-COLOR?style=for-the-badge&logo=Pyhton&logoColor=3776AB}
