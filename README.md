@@ -1,6 +1,6 @@
 <h1>Hello!</h1>
 
-<p>Welcome to my page!</br>My name is <b>LeeJuhan</b><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" style="width:12px; height:auto;"></br>
+<p>Welcome to my page!</br>My name is <b>LeeJuhan </b><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" style="width:15px; height:auto;"></br>
   
 I'm a student in <b>inha university</b>
 </p>
