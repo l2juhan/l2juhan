@@ -4,9 +4,9 @@
 <h2>📚My tech stack📚</h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3&logoColor=1572B6)
+![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DFF1?style=for-the-badge&logo=JavaSript&logoColor=000000&labelColor=%23F7DF1&color=F7DF1E)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-![C++](https://img.shields.io/badge/-cpp-000000?style=for-the-badge&logo=cplusplus&color=%20%2300599C)
+![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=cplusplus&color=%20%2300599C)
 ![{Python3](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=pyhton&logoColor=000000)
 
