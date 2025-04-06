@@ -2,7 +2,7 @@
 
 <p>Welcome to my page!</br>My name is <b>LeeJuhan </b><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" style="width:17px; height:auto;"></br>
   
-I'm a student in <b>inha university</b>
+I'm a student in <b>Inha university</b>
 </p>
 
 <h2>📚My tech stack📚</h2>
