@@ -21,8 +21,6 @@
 ---
 
 ## ⚒️ Tech Stack
-
-## ⚒️ Tech Stack
 <table>
   <tr>
     <th>Category</th>
