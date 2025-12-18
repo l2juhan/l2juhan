@@ -1,6 +1,6 @@
 <!-- 상단 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=200&section=header&text=Juhan%20Lee's%20GITHUB&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=200&section=header&text=Juhan%20Lee's%20GITHUB&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=FrontEnd%20Developer&descAlignY=55&descAlign=50"/>
 </p>
 
 <table>
