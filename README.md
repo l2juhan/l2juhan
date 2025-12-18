@@ -64,7 +64,7 @@
 <td width="46%" valign="top">## 🏆 Algorithm
 <p align="center">
   <a href="https://solved.ac/bill0527">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=l2juhan" height="150"/>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bill0527">
   </a>
 </p>
 
