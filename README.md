@@ -22,6 +22,7 @@
 
 ## ⚒️ Tech Stack
 
+## ⚒️ Tech Stack
 <table>
   <tr>
     <th>Category</th>
@@ -30,41 +31,51 @@
   <tr>
     <td align="center"><b>Frontend</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=js,react,dart,flutter" height="40"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>Backend</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,spring" height="40"/>
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>Database</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" height="40"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>Infra / DevOps</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker,aws,githubactions" height="40"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>Others</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,c,cpp" height="40"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
     </td>
   </tr>
 </table>
-
 </td>
 
-<td width="46%" valign="top">## 🏆 Algorithm
+<td width="46%" valign="top">
+<h2>🏆 Algorithm</h2>
 <p align="center">
   <a href="https://solved.ac/bill0527">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bill0527">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=bill0527"/>
   </a>
 </p>
 
