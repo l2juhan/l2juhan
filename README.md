@@ -7,7 +7,7 @@
 <tr>
 <td width="54%" valign="top">
 
-## 🌸 About Me
+## 🌊 About Me
 
 - ☀️ **기본부터 탄탄히**, 꾸준히 성장하는 풀스택 개발자입니다.  
 - ⚙️ 코드를 단순히 “동작”시키는 것을 넘어, **더 나은 구조와 안정성**을 고민합니다.  
@@ -28,9 +28,15 @@
     <th>Stack</th>
   </tr>
   <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js,react,dart,flutter" height="40"/>
+    </td>
+  </tr>
+  <tr>
     <td align="center"><b>Backend</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,spring,hibernate" height="40"/>
+      <img src="https://skillicons.dev/icons?i=java,spring" height="40"/>
     </td>
   </tr>
   <tr>
@@ -48,14 +54,21 @@
   <tr>
     <td align="center"><b>Others</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=kafka,git" height="40"/>
+      <img src="https://skillicons.dev/icons?i=git,c,cpp" height="40"/>
     </td>
   </tr>
 </table>
 
 </td>
 
-<td width="46%" valign="top">
+<td width="46%" valign="top">## 🏆 Algorithm
+<p align="center">
+  <a href="https://solved.ac/bill0527">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=l2juhan" height="150"/>
+  </a>
+</p>
+
+
 
 ## 📊 GitHub Stats
 
