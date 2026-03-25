@@ -9,9 +9,9 @@
 
 ## 🌊 About Me
 
-- ☀️ **기본부터 탄탄히**, 꾸준히 성장하는 풀스택 개발자입니다.  
-- ⚙️ 코드를 단순히 “동작”시키는 것을 넘어, **더 나은 구조와 안정성**을 고민합니다.  
-- 🌱 매일 조금씩 발전하고 있습니다.  
+- ☀️ **기본부터 탄탄히**, 꾸준히 성장하는 풀스택 개발자입니다.
+- ⚙️ 코드를 단순히 "동작"시키는 것을 넘어, **더 나은 구조와 안정성**을 고민합니다.
+- 🌱 매일 조금씩 발전하고 있습니다.
 
 ---
 
@@ -29,8 +29,9 @@
   <tr>
     <td align="center"><b>Frontend</b></td>
     <td align="center">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
       <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
     </td>
@@ -38,8 +39,7 @@
   <tr>
     <td align="center"><b>Backend</b></td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -51,10 +51,16 @@
     </td>
   </tr>
   <tr>
+    <td align="center"><b>Cloud</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
     <td align="center"><b>Infra / DevOps</b></td>
     <td align="center">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
     </td>
   </tr>
@@ -62,7 +68,6 @@
     <td align="center"><b>Others</b></td>
     <td align="center">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
     </td>
   </tr>
@@ -95,6 +100,49 @@
 
 </td>
 </tr>
+</table>
+
+---
+
+## 🚀 프로젝트
+
+### 진행중
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/l2juhan/card-news-app"><b>📰 Card News App</b></a><br/><br/>
+      <sub>Instagram 카드뉴스 생성/편집/내보내기 Electron 데스크톱 앱</sub><br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/Team-PayCheck"><b>💰 PayCheck</b></a><br/><br/>
+      <sub>React Native 기반 근로자/고용주 급여 관리 모바일 앱</sub><br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/l2juhan/token-gauge"><b>📊 Token Gauge</b></a><br/><br/>
+      <sub>macOS 메뉴바에서 AI 서비스 사용량을 실시간 추적하는 네이티브 앱</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+### 진행완료
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/NET-ZERO-FitFit"><b>🏋️ FitFit</b></a><br/><br/>
+      <sub>NET-ZERO 팀 프로젝트 — 피트니스 서비스 (Frontend + Backend + AI)</sub><br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+    </td>
+    <td width="67%"></td>
+  </tr>
 </table>
 
 ---
